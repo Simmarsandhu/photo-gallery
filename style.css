@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+.line{
+    background-color: black;
+    width:100px;
+    height:10px;
+    text-align: center;
+}
+img{
+    width:300px;
+    height:300px;
+}
+#dance{
+    width:300px;
+    height:250px;
+}
+#imgdiv{
+    background-color:bisque;
+    
+}
+section{
+    background-color: bisque;
+    text-align: center;
+    font-size: 25px;
+    font-family: monospace;
+}
